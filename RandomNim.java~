@@ -1,0 +1,14 @@
+public class RandomNim{
+  public RandomNim(int startnum)
+  {
+    
+  }
+  
+  public int play(int pieces)
+  {
+    
+  }
+    
+    
+    
+ 
